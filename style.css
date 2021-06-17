@@ -1,0 +1,25 @@
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  .icon{
+    align-items: center;
+    width:30px;
+    background-color: green;
+    margin-left: 10px;
+    margin-top: 3px;
+    color:white;
+    padding-left: 5px;
+  }
+  .content{
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .cpy{
+    height: 40px;
+    width: 100%;
+    color: white;
+  }
